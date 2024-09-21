@@ -1,0 +1,15 @@
+
+nc_stonework:chip inventory,wield nc_stonework_stone.png
+
+nc_tree:eggcorn inventory,wield nc_tree_eggcorn.png
+
+
+wc_naturae:shell inventory,wield thra_shell_pink.png
+wc_naturae:shard inventory,wield thra_shard.png
+
+wc_vulcan:shard inventory,wield thra_shard_dark.png
+
+wc_quicksilver:cobble * wc_quicksilver_cinnacobble.png
+wc_quicksilver:cobble_loose * wc_quicksilver_cinnacobble_loose.png
+wc_quicksilver:bricks * wc_quicksilver_bricks.png
+wc_quicksilver:cobble_hot * thra_inhibited_quicksilver.png

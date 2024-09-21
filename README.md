@@ -1,2 +1,2 @@
-# WinterCore-Dark-Crystal
-A Dark Crystal inspired 32x32 texture pack for Nodecore
+# wintercore_thra
+A 32x32 NodeCore texturepack heavily inspired by the world of Thra, from The Dark Crystal.
